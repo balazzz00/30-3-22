@@ -1,13 +1,35 @@
+h1{
+
+  color: black;
+
+  font-size: larger;
+
+}
+
 body{
-    color:white;
-  }
-  img{
-    height:100px;
-    width:100px;
-  }
-  table{
-      color:aliceblue
-  }
-  h1{
-      color:antiquewhite
+
+  background-color: antiquewhite;
+
+}
+
+
+
+table td,th {
+
+
+
+  border:2px solid blue;
+
+ 
+
+  border-collapse:collapse;
+
+ 
+
+  text-align: center;
+
+ 
+
+ 
+
   }
